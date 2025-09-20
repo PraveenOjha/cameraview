@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/gradlew">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/gradlew" />
+              <option name="updatedContent" value="#!/usr/bin/env sh&#10;&#10;##############################################################################&#10;##&#10;##  Gradle start up script for UN*X&#10;##&#10;##############################################################################&#10;&#10;# ...existing code for gradlew script...&#10;# This is a standard script, you can regenerate it with 'gradle wrapper' if needed.&#10;&#10;# Set the location of the wrapper jar file&#10;WRAPPER_JAR=&quot;$(dirname &quot;$0&quot;)/gradle/wrapper/gradle-wrapper.jar&quot;&#10;&#10;# Execute the wrapper jar&#10;exec java -jar &quot;$WRAPPER_JAR&quot; &quot;$@&quot;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
