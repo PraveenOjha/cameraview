@@ -1,3 +1,19 @@
+/*
+ * *
+ *
+ *  * Copyright (c)  Ilabs 2025 . All rights reserved.
+ *  * Last modified 18/09/25, 3:28 am
+ *  * Use only if permission provided by ILabs (inductiongames.com)
+ *   *  * Use or edit only if permission provided by Ilbas
+ *   *  * email : inductionlabs@gmail.com
+ *   *  * A github invite link will be considered permission for using this code
+ *   *
+ *   *
+ *  *
+ *
+ *
+ */
+
 plugins {
     id("com.android.library")
     id("kotlin-android")
